@@ -5,3 +5,4 @@ git reset --hard HEAD~100 回退到第100个版本
 git reset --hard版本号  恢复到某个版本
 
 cat readme.txt 查看文件内容
+teststststw
